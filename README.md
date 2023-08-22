@@ -62,7 +62,7 @@ function Nachricht() {
 
 export default Nachricht;
 
-Frontend/ nachrichtupdate.js
+Frontend/ nachrichtupdate.js:
 
 import React, {useState} from 'react';
 
